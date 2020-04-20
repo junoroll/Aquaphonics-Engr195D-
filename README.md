@@ -2,7 +2,7 @@
 
 Students at EPICS at SJSU are working to design an Arduino based water sampling and testing system for the aquaponics system on display at The Tech Interactive, a popular museum for children in downtown San Jose.
 
-![alt text](https://github.com/amridris/Aquaphonics-Engr195D-/blob/master/design%20pictures/AQUAPONICSNOBACK.png)
+![alt text](https://github.com/junoroll/Aquaphonics-Engr195D-/blob/master/design%20pictures/AQUAPONICSNOBACK.png)
 
 # INTRODUCTION
 Aquaponics is a popular aquaculture system in which waste produced by the fish in an aquarium are used to supply nutrients to a garden which in turn purifies the water returning to the aquarium. Our community partner, The Tech Interactive, has an aquaponics system consisting of a 80 gallon aquarium housing various freshwater fish connected to a vegetable garden growing various produce.
